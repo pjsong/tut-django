@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 sudo docker build -t tut-django .
 sudo docker stop tut-cfe
 sudo docker rm -v tut-cfe
