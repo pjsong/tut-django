@@ -13,4 +13,5 @@ login in container.
 + createsuperuser pjsong/pjsong3101
 + python manage.py startapp posts
 
-## step2
+## steps
+www.youtube.com/playlist?list=PLEsfXFp6DpzQFqfCur9CJ4QnKQTVXUsRy
