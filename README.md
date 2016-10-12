@@ -9,7 +9,7 @@ tutorials for python/django.
 
 ## how the first step created
 login in container.
-+ `cd /volumeCode && django-admin startproject trydjango19 && cd trydjango19 && python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0:8000`
++ `cd /volumeCode && django-admin startproject blog && cd blog && python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0:8000`
 + createsuperuser pjsong/pjsong3101
 + python manage.py startapp posts
 
